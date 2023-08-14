@@ -1,3 +1,3 @@
 ﻿# python-helloworld
-# Second git hub python project
+# git hub python project
 
